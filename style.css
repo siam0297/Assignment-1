@@ -141,13 +141,13 @@ h3 {
 
     margin-top: 100px;
     background-color: black;
-    height: 400px;
+    height: 100%;
     width: 100%;
 
 }
 
 .footer-pra {
-    padding-top: 100px;
+    padding-top: 300px;
     margin-left: 200px;
     color: white;
     display: inline-block;
